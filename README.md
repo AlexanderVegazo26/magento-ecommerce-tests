@@ -15,7 +15,7 @@ This project provides automated end-to-end tests for the Magento demo store (htt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/magento-e2e-tests.git
+   git clone https://github.com/AlexanderVegazo26/magento-ecommerce-tests.git
    cd magento-e2e-tests
    ```
 
@@ -102,7 +102,3 @@ npm run report
 ## CI/CD Integration
 
 This project includes GitHub Actions workflows in the `.github` directory for continuous integration.
-
-## License
-
-ISC 
