@@ -1,4 +1,5 @@
 import { faker } from '@faker-js/faker';
+import { ShippingDetails } from './shipping-details.type';
 
 
 export function generateShippingDetails(overrides: Partial<ShippingDetails> = {}): ShippingDetails {

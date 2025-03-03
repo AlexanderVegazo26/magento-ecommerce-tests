@@ -1,4 +1,4 @@
-type ShippingDetails = {
+export type ShippingDetails = {
   email: string;
   firstName: string;
   lastName: string;

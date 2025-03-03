@@ -39,6 +39,5 @@ export class CheckoutPaymentPage extends BasePage {
 
   async continueShopping(): Promise<void> {
     await this.continueShoppingLink.click();
-    await this.page.waitForURL("/");
   }
 }
