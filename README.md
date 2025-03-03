@@ -102,3 +102,8 @@ npm run report
 ## CI/CD Integration
 
 This project includes GitHub Actions workflows in the `.github` directory for continuous integration.
+The workflow can be manually executed from github actions.
+
+## Reports
+After executing the CI on the Github action, the report can be reviewed on the following github page: 
+https://alexandervegazo26.github.io/magento-ecommerce-tests/
